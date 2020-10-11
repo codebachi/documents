@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Game Dev',
   tagline: 'The tagline of my site',
-  url: 'https://codebachi.github.io',
+  url: 'https://codebachi.github.io/documents/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
