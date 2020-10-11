@@ -2,7 +2,7 @@ module.exports = {
   title: 'Game Dev',
   tagline: 'The tagline of my site',
   url: 'https://codebachi.github.io/documents/',
-  baseUrl: '/',
+  baseUrl: '/documents/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'codebachi', // Usually your GitHub org/user name.
